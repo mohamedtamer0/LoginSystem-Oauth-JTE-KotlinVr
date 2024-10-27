@@ -1,6 +1,6 @@
 @import org.springframework.security.core.GrantedAuthority
 @import java.util.Collection
-@import com.tamer.LoginSystem_Oauth_JTE.CsrfHiddenInput
+@import com.tamer.LoginSystem_Oauth_JTE_KotlinVr.CsrfHiddenInput
 
 @param String username = ""
 @param String email = null

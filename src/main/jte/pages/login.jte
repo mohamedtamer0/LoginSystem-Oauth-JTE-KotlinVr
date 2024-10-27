@@ -1,4 +1,4 @@
-@import com.tamer.LoginSystem_Oauth_JTE.CsrfHiddenInput
+@import com.tamer.LoginSystem_Oauth_JTE_KotlinVr.CsrfHiddenInput
 
 @param Boolean error = false
 @param String errorMessage = null
